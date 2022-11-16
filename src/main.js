@@ -4,7 +4,7 @@ const app = new App({
 	target: document.body,
 	props: {
 		name: 'LUANAR',
-		version:'0.0.1'
+		version:'1.1.1'
 	}
 });
 
